@@ -15,6 +15,8 @@
 
 ### [第一部分打卡](Part%201/README.md)
 
+### [第二部分打卡](Part%202/README.md)
+
 ### 参考
 1. [datawhale动手数据分析组队学习](https://github.com/datawhalechina/hands-on-data-analysis/blob/master/README.md)
 2. [《利用Python进行数据分析·第2版》](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)
