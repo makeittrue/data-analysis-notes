@@ -13,9 +13,9 @@
 - 第二部分：当我们可以比较熟练的操作数据并认识这个数据之后，我们需要开始数据清洗以及重构，将原始数据变为一个可用好用的数据，为之后放入模型做准备
 - 第三部分：我们根据任务需求不同，要考虑建立什么模型，我们接触流行的sklearn库，建立模型。然后一个模型的好坏，我们是需要评估的，之后我们会引入模型评估的一些改变和实现。
 
-### [第一部分打卡](二手车交易/Part%201/README.md)
+### [第一部分打卡](Part%201/README.md)
 
-### [第二部分打卡](二手车交易/Part%202/README.md)
+### [第二部分打卡](Part%202/README.md)
 
 ### 参考
 1. [datawhale动手数据分析组队学习](https://github.com/datawhalechina/hands-on-data-analysis/blob/master/README.md)
